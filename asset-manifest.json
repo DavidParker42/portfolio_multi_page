@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio_multi_page/static/css/main.c321be27.css",
+    "main.js": "/portfolio_multi_page/static/js/main.9774dcf8.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio_multi_page/static/js/787.1ed0c42c.chunk.js",
+    "static/media/project-whatch.png": "/portfolio_multi_page/static/media/project-whatch.c4f8b8d288ebed32f330.png",
+    "static/media/bookSearch.png": "/portfolio_multi_page/static/media/bookSearch.8d81d858d69d2712fc1d.png",
+    "static/media/techBlog.png": "/portfolio_multi_page/static/media/techBlog.62526d793b343e7517f2.png",
+    "static/media/noteTaker.png": "/portfolio_multi_page/static/media/noteTaker.f1e24a71f2a105e8881d.png",
+    "static/media/textEditor.png": "/portfolio_multi_page/static/media/textEditor.3ceff06bd9789220514f.png",
+    "index.html": "/portfolio_multi_page/index.html",
+    "main.c321be27.css.map": "/portfolio_multi_page/static/css/main.c321be27.css.map",
+    "main.9774dcf8.js.map": "/portfolio_multi_page/static/js/main.9774dcf8.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio_multi_page/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c321be27.css",
+    "static/js/main.9774dcf8.js"
+  ]
+}
