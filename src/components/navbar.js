@@ -17,6 +17,15 @@ function Navbar(props) {
         </li> */}
         <li>
           <NavLink
+            id="Home"
+            to="/Home"
+            onClick={() => props.handlePageChange("Home")}
+          >
+            Home
+          </NavLink>
+        </li>
+        <li>
+          <NavLink
             id="about"
             to="/aboutMe"
             onClick={() => props.handlePageChange("about")}
