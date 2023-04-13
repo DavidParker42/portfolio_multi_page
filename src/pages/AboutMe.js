@@ -13,7 +13,7 @@ function AboutMe(props) {
             <h3>About Me</h3>
           </aside>
 
-          <img src={../images/headshot.png} class="headshot" alt="" />
+          <img src={headshot} class="headshot" alt="" />
           <p>
             Full Stack Web Developer with a background in Education and
             life-long dedication to learning. Proficient in mobile and desktop
