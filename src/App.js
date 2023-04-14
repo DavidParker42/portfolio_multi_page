@@ -1,6 +1,7 @@
 import './reset.css';
 import './App.css';
 import AboutMe from './pages/AboutMe';
+import Home from "./pages/Home";
 import Navbar from './components/navbar';
 import Header from './components/header';
 import Contact from './pages/contact';
@@ -19,6 +20,10 @@ export default function PortfolioContainer() {
   // checking to see what the value of 1currentPage` is. Depending on the value of currentPage, we return the corresponding component to render
   const renderPage = () => {
     console.log("here1");
+    if (currentPage === "Home") {
+      console.log("Home");
+      return <Home />;
+    }
     if (currentPage === "about") {
       console.log("AboutMe");
       return <AboutMe />;
