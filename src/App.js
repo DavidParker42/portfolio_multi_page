@@ -56,32 +56,4 @@ export default function PortfolioContainer() {
 }
 
 
-// function App() {
 
-//   return (
-//     <Routes>
-//       <Route path="/" element={<Header />} />
-//       <Route path="/about" element={<Aboutme />} />
-//       <Route path="/contact" element={<Contact />} />
-//       <Route path="/work" element={<Work  />} />
-//       {/* <Route path='/resume' element={<Resume />}/> */}
-//       <Route path="/PORTFOLIO" element={<Navigate replace to="/" />} />
-//     </Routes>
-//   );
-// }
-
-// function App() {
-//   const pages = [{ name: "About Me" }, { name: "Contact" }, { name: "Work" }];
-//    const [currentpage, setCurrentPage] = useState (pages[0])
-//   return (
-//     <div>
-//       <Header pages={pages} currentpage={currentpage} setCurrentPage={setCurrentPage}/>
-//       {/* <Aboutme />
-//       <Contact />
-//       <Work /> */}
-//       <Footer />
-//     </div>
-//   );
-// }
-
-// export default App;
