@@ -1,6 +1,6 @@
 function Home(props) {
   return (
-    <div>
+    <div class="HomePage">
       <div class="home_intro">
         <p>I'm David</p>
       </div>

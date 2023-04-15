@@ -12,6 +12,10 @@ font-size: 2rem;
 text-align: center;
 }
 
+.HomePage {
+  background-image: url("backgroundPhoto.jpeg");
+}
+
 header {
   display: flex;
   justify-content: space-between;
