@@ -78,8 +78,14 @@ nav a {
   color: rgb(37, 144, 144);
 }
 
+.aboutMeTitle {
+  text-align: center;
+  font-size: 400%;
+}
+
 .aboutMePic {
   text-align: center;
+  border-radius: 10px;
 }
 
 #about-me {
