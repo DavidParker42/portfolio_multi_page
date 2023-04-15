@@ -15,7 +15,7 @@ import { Routes, Route, Navigate } from "react-router-dom";
 
 
 export default function PortfolioContainer() {
-  const [currentPage, setCurrentPage] = useState('about');
+  const [currentPage, setCurrentPage] = useState('Home');
   console.log("currently on " , currentPage)
   // checking to see what the value of 1currentPage` is. Depending on the value of currentPage, we return the corresponding component to render
   const renderPage = () => {
