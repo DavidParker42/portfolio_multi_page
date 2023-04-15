@@ -9,9 +9,9 @@ function AboutMe(props) {
       {/* <Navbar/> */}
       <div className="aboutMe">
         <section id="about-me">
-          <aside>
+          
             <h3>About Me</h3>
-          </aside>
+          
           
           <img src={headshot} class="headshot" alt="" />
           <p>
