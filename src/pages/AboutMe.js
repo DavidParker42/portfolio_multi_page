@@ -9,11 +9,14 @@ function AboutMe(props) {
       {/* <Navbar/> */}
       <div className="aboutMe">
         <section id="about-me">
-          
+          <div class="aboutMeTitle">
             <h3>About Me</h3>
+          </div>
           
-          
-          <img src={headshot} class="headshot" alt="" />
+
+          <div class="aboutMePic">
+            <img src={headshot} class="headshot" alt="" />
+          </div>
           <p>
             Full Stack Web Developer with a background in Education and
             life-long dedication to learning. Proficient in mobile and desktop
